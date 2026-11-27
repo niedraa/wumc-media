@@ -1,0 +1,32 @@
+WUMC — keynote (EN) — transcription
+Source : wumc-keynote-en.mp4 — 30 s, 1920x1080, 60 i/s, H.264, AUCUNE PISTE AUDIO (ni voix ni musique).
+Transcription faite à partir des textes à l'écran (une image toutes les 2 s, horodatage approximatif).
+
+[00:00] Fond sombre. Petit texte « TUESDAY · 9:41 AM ». Titre : « Your team codes with Claude. » (« Claude » en orange).
+[00:02] Cinq mascottes pixel (chats/robots) apparaissent sous le titre.
+[00:04] « EXCEPT NOBODY KNOWS » — « On which project? » — les mascottes deviennent des silhouettes avec des « ? ».
+[00:06] « YOUR 5-HOUR SESSION » — 68 % (jaune), barre de progression vers « LIMIT », la mascotte avance.
+[00:08] « YOUR 5-HOUR SESSION » — 100 % (rouge) — « Limit reached. » / « Nobody saw it coming. »
+[00:10] Fond orange, barre de menus macOS (WUMC File Edit Window Help — Tue Nov 24 9:41 AM), mascottes dans l'encoche.
+        « Meet WUMC. » — « Your team on Claude. • Live. »
+[00:11] Notification dans l'encoche : « WUMC is online — The whole team, finally visible » (jauge 47 %, 7d · 38 %).
+[00:12] L'encoche du Mac s'agrandit en panneau « Studio Pixel — 3 online ».
+[00:14] Panneau détaillé :
+        - Lucas — Coding in "startup-app" · 23 min — startup-app / feat/onboarding / Opus 5.5 — 5-hour session 86 %
+        - Zoé — Writing to Claude on claude.ai · 6 min — claude.ai / Study plan / Sonnet 5.5 — 18 %
+        - You — Online · not using Claude — Available — 47 %
+        Légendes : « Who. » (EVERY TEAMMATE) — « On what. »
+[00:16] « Who. » « On what. » « How far. » (PROJECT · BRANCH · MODEL / 5-HOUR LIMITS · LIVE) ; le panneau se referme dans l'encoche.
+[00:18] Fond clair : « Five mascots. One per teammate. » — cartes : Cloud « Parties », Cat « Types away » (Claude Code),
+        Owl « Writes to Claude » (Claude.ai), Sprout « Waves at you » (Nudge), Pebble « Fast asleep » (Offline).
+[00:20] « AND EVERYTHING ELSE, IN ONE APP » — « Live limits. » / « Team chat. » — capture de la fenêtre principale
+        (« 2 personnes utilisent Claude », jauge 46 %).
+[00:22] « Stats and trophies. » — capture de l'écran « Statistiques » — « FOCUS · NUDGES · TEAM RECAP · CSV EXPORT ».
+[00:24] Retour sur la barre de menus orange : « Stop guessing. »
+[00:26] Fond noir, une mascotte explose en confettis pixel.
+[00:28] Écran de fin : logo chat + « WUMC » — « Your team on Claude, live. » — bouton « wumc.app » —
+        « FREE · MACOS 14 OR LATER » — quatre mascottes en bas.
+
+Résumé : Votre équipe code avec Claude, mais personne ne sait qui travaille sur quoi ni qui va atteindre sa limite
+de session de 5 h. WUMC affiche en direct dans l'encoche du Mac qui utilise Claude, sur quel projet/branche/modèle
+et où chacun en est de ses limites ; plus cinq mascottes, chat d'équipe, stats et trophées. Gratuit, macOS 14+, wumc.app.
